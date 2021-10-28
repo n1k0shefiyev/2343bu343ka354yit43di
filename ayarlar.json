@@ -1,0 +1,45 @@
+  {
+    "OKUMADANGECME" : "Aşağıdaki tamamen boş bırakılan yerlere ID girin OKUDUKTAN SONRA burayı silebilirsiniz + Olarak emojileri ID olarak koymazsanız çalışmaz",
+    "OKUMADANGECME2" : "TOKEN .env kısmında TOKEN yazan yerin karşısına tokeninizi yapıstırınız.",
+
+    "sahip" : "289464872222064651",
+    "prefix" : ".",
+    "footer" : "Şahan",
+
+    "tag" : "",
+    "sembol" : "•",
+  
+    "yetkiliRol" : ["895770570703118427", "2. YOKSA BOŞ BIRAK", "3. YOKSA BOŞ BIRAK"],
+    "vipRol" : "897480174608740352",
+    "boosterRol" : "836978482521178113",
+    "kayıtsızRol" : "895771021070729278",
+    "erkekRol1" : "888765553831989259",
+    "erkekRol2" : "",
+    "kadınRol1" : "895770565686722672",
+    "kadınRol2" : "",
+
+    "sifirEmoji" : "898345823778275349",
+    "birEmoji" : "898344375401193492",
+    "ikiEmoji" : "898344389343076374",
+    "ucEmoji" : "898344392258109440",
+    "dortEmoji" : "898344391855472651",
+    "besEmoji" : "898344391419232296",
+    "altiEmoji" : "898344392023216179",
+    "yediEmoji" : "898344387443036160",
+    "sekizEmoji" : "898344392857894922",
+    "dokuzEmoji" : "898344391318573156",
+
+    "tagRol" : "855678172066611210",
+
+    "hosgeldinKanal" : "897476463534669864",
+    "hosgeldinMesajEmoji" : "897507683681308702",
+    "hosgeldinMesajYetkili": "895770570703118427",
+    "rulesKanal" : "806655256641142844",
+
+    "sohbetKanal" : "806656634955890698", 
+  
+    "botSesKanal" : "898722219771985960",
+  
+    "yes" : "897511975263830107",
+    "no" : "897511974869545001"
+}
